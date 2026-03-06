@@ -1,1 +1,2 @@
 Meu primeiro versionamento com Git.
+Adicionando uma segunda linha para nova versão
